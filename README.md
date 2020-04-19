@@ -1,0 +1,1 @@
+This is Retail Manager application Using Springboot and Restful webservice (implementation RestEasy API) 
